@@ -142,17 +142,3 @@ Faced psql command errors, managed using pgAdmin 4.
 🔍 Add filters and search in the dashboard.
 
 ✉️ Improve the design of welcome emails.
-
-📜 License
-This project is for educational and demo purposes only.
-
-yaml
-Copy
-Edit
-
----
-
-## ✅ Next Step:
-Save this as `README.md` in your project folder and push it to your GitHub repo.
-
-If you'd like, I can generate this as a downloadable file for you. Want that? 😊
